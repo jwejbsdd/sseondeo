@@ -1,1 +1,1 @@
-shutdown /s /t 600 /c " hehe "
+shutdown /s /t 600 /c " sseondeo on "
